@@ -7,7 +7,7 @@
 
 - 👀 I'm interested in **Web Development, Backend Development, Machine Learning, Game Development**
 - 🔭 I'm currently working on **expanding my knowledge and improving my coding skills** to be ready for the industry 😄
-- 🌱 I'm currently learning **Javascript, React, C++ Game Development, Machine Learning**
+- 🌱 I'm currently learning **Javascript, React, Next.js, C++ Game Development, Machine Learning**
 - 📫 How to reach me: <a href="mailto:markjaily09@gmail.com">markjaily09@gmail.com </a>
 - 🍙 Fun fact: My goal is to become a 6-digit earner and visit Japan someday😊
 
@@ -33,3 +33,4 @@ Let's Connect!
 - ⚡ SPARCS (UP Mindanao Society of Programmers And Refined Computer Scientists) Skill Building Committee
 - 🐍 DurianPy Davao Python User Group Volunteer
 - 👾 Google Developer Group Davao Volunteer
+- 🦅 AWS Learning Club - UP Mindanao Logistic & Machine Learning 
