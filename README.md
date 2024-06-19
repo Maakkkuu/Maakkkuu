@@ -1,13 +1,7 @@
 <div align="center">
-  <svg width="500" height="500">
-    <defs>
-      <clipPath id="circleView">
-        <circle cx="250" cy="250" r="250" fill="#FFFFFF"/>
-      </clipPath>
-    </defs>
-    <image width="500" height="500" xlink:href="https://github.com/Maakkkuu/Maakkkuu/blob/main/assets/tumblr_62ee8561a8ae1f4bdac134750d8b987c_df9c2c59_400.gif" clip-path="url(#circleView)" />
-  </svg>
+  <img src="https://github.com/Maakkkuu/Maakkkuu/blob/main/assets/tumblr_62ee8561a8ae1f4bdac134750d8b987c_df9c2c59_400.gif" width="450"/>
 </div>
+
 
 
 <h1 align="center">Hello 👋, I'm Makku</h1>
