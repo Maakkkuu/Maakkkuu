@@ -12,9 +12,9 @@
 [![](https://visitcount.itsvg.in/api?id=Maakkkuu&icon=9&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-- 👀 I'm interested in Web Development, Backend Development, Machine Learning, Game Development<br>
+- 👀 I'm interested in **Web Development, Backend Development, Machine Learning, Game Development**<br>
 - 🔭 I'm currently working on expanding my knowledge and improving my coding skills to be ready for the industry 😄<br>
-- 🌱 I'm currently learning Javascript, React, Next.js, C++ Game Development, Machine Learning<br>
+- 🌱 I'm currently learning **Javascript, React, Next.js, C++ Game Development, Machine Learning**<br>
 - 📫 How to reach me: markjaily09@gmail.com<br>
 - 🍙 Fun fact: My goal is to become a 6-digit earner and visit Japan someday 😊
 
