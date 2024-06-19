@@ -1,4 +1,4 @@
-<img src="https://tenor.com/view/hayasaka-ai-anime-kaguya-sama-love-is-war-dance-moves-gif-17338865">
+![hayasaka](https://github.com/Maakkkuu/Maakkkuu/assets/hayasaka-ai-anime.gif)
 
 <h1 align="center">Hello 👋, I'm Makku</h1>
 
