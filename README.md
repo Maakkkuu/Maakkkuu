@@ -1,4 +1,4 @@
-![](https://github.com/Maakkkuu/Maakkkuu/blob/main/assets/hayasaka-ai-anime.gif)
+<img src="https://github.com/Maakkkuu/Maakkkuu/blob/main/assets/hayasaka-ai-anime.gif" width="500" height="500"/>
 
 <h1 align="center">Hello 👋, I'm Makku</h1>
 
