@@ -1,4 +1,4 @@
-<img src="https://github.com/Maakkkuu/Maakkkuu/blob/main/assets/hayasaka-ai-anime.gif" width="500" height="500"/>
+<img src="https://github.com/Maakkkuu/Maakkkuu/blob/main/assets/hayasaka-ai-anime.gif" width="1000"/>
 
 <h1 align="center">Hello 👋, I'm Makku</h1>
 
