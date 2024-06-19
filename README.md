@@ -1,4 +1,4 @@
-![hayasaka](https://github.com/Maakkkuu/Maakkkuu/assets/hayasaka-ai-anime.gif)
+![](https://github.com/Maakkkuu/Maakkkuu/blob/main/assets/hayasaka-ai-anime.gif)
 
 <h1 align="center">Hello 👋, I'm Makku</h1>
 
