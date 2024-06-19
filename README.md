@@ -2,7 +2,7 @@
   <img src="https://github.com/Maakkkuu/Maakkkuu/blob/main/assets/tumblr_62ee8561a8ae1f4bdac134750d8b987c_df9c2c59_400.gif" width="500"/>
 </div>
 
-![](https://github.com/Maakkkuu/Maakkkuu/blob/main/assets/tumblr_62ee8561a8ae1f4bdac134750d8b987c_df9c2c59_400.gif){width=300 height=200 align="center"}
+![](https://github.com/Maakkkuu/Maakkkuu/blob/main/assets/tumblr_62ee8561a8ae1f4bdac134750d8b987c_df9c2c59_400.gif){width=300 height=200}
 
 <h1 align="center">Hello 👋, I'm Makku</h1>
 
