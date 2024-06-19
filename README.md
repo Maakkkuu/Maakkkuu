@@ -2,12 +2,11 @@
   <img src="https://github.com/Maakkkuu/Maakkkuu/blob/main/assets/tumblr_62ee8561a8ae1f4bdac134750d8b987c_df9c2c59_400.gif" width="500"/>
 </div>
 
+![](https://github.com/Maakkkuu/Maakkkuu/blob/main/assets/tumblr_62ee8561a8ae1f4bdac134750d8b987c_df9c2c59_400.gif){width=300 height=200 align="center"}
+
 <h1 align="center">Hello 👋, I'm Makku</h1>
 
 <h3 align="center">BSCS student at the University of the Philippines Mindanao🌟</h3>
-
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=Maaakkkuu&label=Profile%20views&color=blueviolet&style=flat" alt="Maakkkuu" /> 
-  </p>
 
 - 👀 I'm interested in **Web Development, Backend Development, Machine Learning, Game Development**
 - 🔭 I'm currently working on **expanding my knowledge and improving my coding skills** to be ready for the industry 😄
