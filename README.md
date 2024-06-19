@@ -1,4 +1,6 @@
-<img src="https://github.com/Maakkkuu/Maakkkuu/blob/main/assets/tumblr_62ee8561a8ae1f4bdac134750d8b987c_df9c2c59_400.gif" width="500" style="text-align:center"/>
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <img src="https://github.com/Maakkkuu/Maakkkuu/blob/main/assets/tumblr_62ee8561a8ae1f4bdac134750d8b987c_df9c2c59_400.gif" width="500" />
+</div>
 
 <h1 align="center">Hello 👋, I'm Makku</h1>
 
