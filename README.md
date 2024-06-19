@@ -5,7 +5,9 @@
 
 <h1 align="center"><i>Hallooo</i>👋,<i> I'm Makku</i></h1>
 <h3 align="center"><i>BSCS student at the University of the Philippines Mindanao</i>🌟</h3>
-<br>
+<br><br>
+
+[![](https://visitcount.itsvg.in/api?id=Maakkkuu&icon=9&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
 - 👀 I'm interested in Web Development, Backend Development, Machine Learning, Game Development<br>
@@ -39,6 +41,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Maakkkuu&icon=9&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
