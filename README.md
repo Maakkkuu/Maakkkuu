@@ -4,7 +4,7 @@
   <img src="https://github.com/Maakkkuu/Maakkkuu/blob/main/assets/tumblr_62ee8561a8ae1f4bdac134750d8b987c_df9c2c59_400.gif" width="450"/>
 </div>
 
-<h1 align="center"><i>Hallooo</i>👋,<i> I'm Makku</i></h1>
+<h1 align="center"><i>Konnichiwa</i>👋,<i> I'm Makku</i></h1>
 <h3 align="center"><i>BSCS student at the University of the Philippines Mindanao</i>🌟</h3>
 <br><br>
 
