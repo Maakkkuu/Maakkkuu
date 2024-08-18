@@ -18,6 +18,7 @@
 
 ## 🔬 Roles and Contributions
 
+- ⚡ SPARCS (UP Mindanao Society of Programmers And Refined Computer Scientists) Director of External Affairs
 - ⚡ SPARCS (UP Mindanao Society of Programmers And Refined Computer Scientists) Skill Building Committee
 - 🐍 DurianPy Davao Python User Group Volunteer
 - 👾 Google Developer Group Davao Volunteer
