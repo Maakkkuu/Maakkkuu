@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b5177f1e-1c4b-4d2e-84e2-e580343ed7d9" width="1000"/>
+  <img src="https://github.com/user-attachments/assets/b5177f1e-1c4b-4d2e-84e2-e580343ed7d9" width="800"/>
 </div>
 
-<h1 align="center">Yahallo👋, I'm Makku</h1>
+<h1 align="center">Annyeong👋, I'm Makku</h1>
 <h3 align="center"><i>BSCS student at the University of the Philippines Mindanao</i>🌟</h3>
 <br><br>
 
