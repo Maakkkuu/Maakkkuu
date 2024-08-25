@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b5177f1e-1c4b-4d2e-84e2-e580343ed7d9" width="550"/>
+  <img src="https://github.com/user-attachments/assets/b5177f1e-1c4b-4d2e-84e2-e580343ed7d9" width="650"/>
 </div>
 
 <h1 align="center">Annyeong👋, I'm Makku</h1>
