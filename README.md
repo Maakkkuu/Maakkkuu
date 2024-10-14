@@ -9,9 +9,9 @@
 [![](https://visitcount.itsvg.in/api?id=Maakkkuu&icon=9&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-- 👀 I'm interested in **Web Development, Machine Learning, Cloud and Game Development**<br>
+- 👀 I'm interested in **Web Development, Machine Learning, and Cloud**<br>
 - 🔭 I'm currently working on expanding my knowledge and improving my coding skills to be ready for the industry 😄<br>
-- 🌱 I'm currently learning **MERN, Django, Machine Learning, AWS**<br>
+- 🌱 I'm currently learning **MERN, NextJS, Machine Learning, AWS**<br>
 - 📫 How to reach me: markjaily09@gmail.com<br>
 - 🍙 Fun fact: My goal is to become a 6-digit earner and visit Japan someday 😊
 
@@ -21,8 +21,10 @@
 - ⚡ SPARCS (UP Mindanao Society of Programmers And Refined Computer Scientists) Director of External Affairs
 - ⚡ SPARCS (UP Mindanao Society of Programmers And Refined Computer Scientists) Skill Building Committee
 - 🐍 DurianPy Davao Python User Group Volunteer
-- 👾 Google Developer Group Davao Volunteer
-- 🦅 UP Mindanao AWS Learning Club Logistic Officer & Co-Head of Machine Learning Department 
+- 👾 Google Developer Group Davao Technicals Volunteer
+- 🦅 UP Mindanao AWS Learning Club Logistic Officer & Co-Head of Machine Learning Department
+- 🦅 AWS User Group Davao Operations Volunteerr
+- 🦅 AWS Community Day Davao 2024 Operations Volunteer
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/markjaily.pena.9)
