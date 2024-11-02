@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b5177f1e-1c4b-4d2e-84e2-e580343ed7d9" width="650"/>
+  <img src="https://github.com/user-attachments/assets/7df2e2e6-48ce-438d-8fcc-630ab8c2ed38" width="650"/>
 </div>
 
-<h1 align="center">Annyeong👋, I'm Makku</h1>
+<h1 align="center">Hallo👋, I'm Makku</h1>
 <h3 align="center"><i>BSCS student at the University of the Philippines Mindanao</i>🌟</h3>
 <br><br>
 
@@ -23,8 +23,10 @@
 - 🐍 DurianPy Davao Python User Group Volunteer
 - 👾 Google Developer Group Davao Technicals Volunteer
 - 🦅 UP Mindanao AWS Learning Club Logistic Officer & Co-Head of Machine Learning Department
-- 🦅 AWS User Group Davao Operations Volunteerr
-- 🦅 AWS Community Day Davao 2024 Operations Volunteer
+- 🦅 AWS Learning Club | Knowledge Base Lead Developer
+- ☁️ AWS User Group Davao Operations Volunteer
+- ☁️ AWS Community Day Davao 2024 Operations Volunteer
+- ☁️ AWS Cloud Clubs Community Meetup Volunteer
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/markjaily.pena.9)
