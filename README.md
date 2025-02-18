@@ -22,7 +22,8 @@
 - ⚡ SPARCS (UP Mindanao Society of Programmers And Refined Computer Scientists) Skill Building Committee
 - 🐍 DurianPy Davao Python User Group Volunteer
 - 👾 Google Developer Group Davao Technicals Volunteer
-- 🦅 UP Mindanao AWS Learning Club Logistic Officer & Co-Head of Machine Learning Department
+- 🦅 UP Mindanao AWS Learning Club Logistic Officer & Co-Head of Machine Learning Department | 2024
+- 🦅 UP Mindanao AWS Learning Club Logistic Officer & Head of Machine Learning Department | 2025
 - 🦅 AWS Learning Club | Knowledge Base Lead Developer
 - ☁️ AWS User Group Davao Operations Volunteer
 - ☁️ AWS Community Day Davao 2024 Operations Volunteer
