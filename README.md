@@ -9,12 +9,12 @@
 [![](https://visitcount.itsvg.in/api?id=Maakkkuu&icon=9&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-- 🐈 A cat lover and a lazy person with short-lived motivation
-- 👀 He's interested in **Web Development, Machine Learning, Cybersecurity and Cloud**<br>
+- 🐈 A cat lover and a lazy person with short-lived motivation.
+- 👀 He's interested in **Web Development, Machine Learning, Cybersecurity and Cloud**.<br>
 - 🔭 He's someone who never gives up until a problem is solved. <br>
-- 🌱 He's currently learning **NextJS, Red Teaming, AWS**<br>
+- 🌱 He's currently learning **NextJS, Red Teaming, AWS**.<br>
 - 📫 How to reach him: markjaily09@gmail.com<br>
-- 🍙 Fun fact: His goal is to become a 6-figure earner and visit Japan someday 😊
+- 🍙 Fun fact: His goal is to become a 6-figure earner and visit Japan someday.😊
 
 
 ## 🔬 Roles and Contributions
