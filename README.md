@@ -2,25 +2,27 @@
   <img src="https://github.com/user-attachments/assets/7df2e2e6-48ce-438d-8fcc-630ab8c2ed38" width="650"/>
 </div>
 
-<h1 align="center">Hallo👋, I'm Makku</h1>
+<h1 align="center">Hallo👋, He's Makku</h1>
 <h3 align="center"><i>BSCS student at the University of the Philippines Mindanao</i>🌟</h3>
 <br><br>
 
 [![](https://visitcount.itsvg.in/api?id=Maakkkuu&icon=9&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-- 👀 I'm interested in **Web Development, Machine Learning, and Cloud**<br>
-- 🔭 I'm currently working on expanding my knowledge and improving my coding skills to be ready for the industry 😄<br>
-- 🌱 I'm currently learning **MERN, NextJS, Machine Learning, AWS**<br>
-- 📫 How to reach me: markjaily09@gmail.com<br>
-- 🍙 Fun fact: My goal is to become a 6-digit earner and visit Japan someday 😊
+- 🐈 A cat lover and a lazy person with short-lived motivation, but 
+- 👀 He's interested in **Web Development, Machine Learning, Cybersecurity and Cloud**<br>
+- 🔭 He's someone who never gives up until a problem is solved. <br>
+- 🌱 He's currently learning **NextJS, Red Teaming, AWS**<br>
+- 📫 How to reach him: markjaily09@gmail.com<br>
+- 🍙 Fun fact: His goal is to become a 6-figure earner and visit Japan someday 😊
 
 
 ## 🔬 Roles and Contributions
 
-- ⚡ SPARCS (UP Mindanao Society of Programmers And Refined Computer Scientists) Director of External Affairs
-- ⚡ SPARCS (UP Mindanao Society of Programmers And Refined Computer Scientists) Skill Building Committee
+- ⚡ SPARCS (UP Mindanao Society of Programmers And Refined Computer Scientists) Director of External Affairs 
+- ⚡ SPARCS (UP Mindanao Society of Programmers And Refined Computer Scientists) Skill Building Committee 
 - 🐍 DurianPy Davao Python User Group Volunteer
+- 🐍 DurianPy Davao Python User Group Web Developer
 - 👾 Google Developer Group Davao Technicals Volunteer
 - 🦅 UP Mindanao AWS Learning Club Logistic Officer & Co-Head of Machine Learning Department | 2024
 - 🦅 UP Mindanao AWS Learning Club Logistic Officer & Head of Machine Learning Department | 2025
