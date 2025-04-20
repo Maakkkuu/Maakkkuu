@@ -2,14 +2,14 @@
   <img src="https://github.com/user-attachments/assets/7df2e2e6-48ce-438d-8fcc-630ab8c2ed38" width="650"/>
 </div>
 
-<h1 align="center">Hallo👋, He's Makku</h1>
+<h1 align="center">Hello👋, I'm Makku</h1>
 <h3 align="center"><i>BSCS student at the University of the Philippines Mindanao</i>🌟</h3>
 <br><br>
 
 [![](https://visitcount.itsvg.in/api?id=Maakkkuu&icon=9&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-- 🐈 A cat lover and a lazy person with short-lived motivation, but 
+- 🐈 A cat lover and a lazy person with short-lived motivation
 - 👀 He's interested in **Web Development, Machine Learning, Cybersecurity and Cloud**<br>
 - 🔭 He's someone who never gives up until a problem is solved. <br>
 - 🌱 He's currently learning **NextJS, Red Teaming, AWS**<br>
